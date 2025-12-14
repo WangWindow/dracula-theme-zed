@@ -2,35 +2,39 @@
 
 > A dark theme for [Zed](https://zed.dev).
 
-![image](https://github.com/user-attachments/assets/73538f30-d9a0-430f-8c0d-77e8810a2648)
-
-> Alucard, a light theme
-
-![image](https://github.com/user-attachments/assets/88911c4e-0a03-4a27-86fa-650884357ea7)
-
-
+![image](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/zed](https://draculatheme.com/zed).
+- Install in [Zed](https://zed.dev)
 
-## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/zed/graphs/contributors).
+    This theme can be installed via the Zed extensions store.
+    After installing, the theme can be selected in the theme selector.
 
-| [![Ben Hamment](https://github.com/Otterpocket.png?size=100)](https://github.com/Otterpocket) |
-| --------------------------------------------------------------------------------------------- |
-| [Ben Hamment](https://github.com/Otterpocket)                                                 |
+- Install using Git
+
+    If you are a git user, you can install the theme and keep up to date by cloning the repo:
+
+    ```bash
+    git clone https://github.com/dracula/zed.git
+    ```
+
+- Install manually
+
+    Download using the [GitHub `.zip` download](https://github.com/dracula/zed/archive/main.zip) option and unzip them.
+
+#### Activating theme
+
+1. Copy the `dracula.json` file to `~/.config/zed/themes`.
+2. Select the theme (`Settings` ➡️ `Select Theme` ➡️ `dracula`).
+3. Boom! It's working ✨
 
 ## Community
 
 - [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
 - [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
 - [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
-
-## Dracula PRO
-
-[![Dracula PRO](./.github/dracula-pro.png)](https://gumroad.com/a/658543635/tPfIDt)
 
 ## License
 
