@@ -1,7 +1,7 @@
-id = "dracula-theme"
-name = "Dracula Theme"
-version = "1.0.0"
+id = "dracula-flat-theme"
+name = "Dracula Flat Theme"
+version = "1.0.1"
 schema_version = 1
 authors = ["WangWindow <1598593280@qq.com>"]
-description = "Dracula theme for Zed"
+description = "Dracula theme (flat version) for Zed"
 repository = "https://github.com/WangWindows/dracula-theme-zed"

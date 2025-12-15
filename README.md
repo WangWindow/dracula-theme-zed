@@ -1,4 +1,4 @@
-# Dracula for [Zed](https://zed.dev)
+# Dracula (flat version) for [Zed](https://zed.dev)
 
 > A dark theme for [Zed](https://zed.dev).
 
@@ -10,9 +10,8 @@
 git clone https://github.com/WangWindows/dracula-theme-zed.git
 ```
 
-1. Copy the `themes/dracula.json` file to `~/.config/zed/themes`.
-2. Select the theme (`Settings` ➡️ `Select Theme` ➡️ `dracula`).
-3. Boom! It's working ✨
+1. Copy the files in the `themes` directory to `~/.config/zed/themes`.
+2. Select the theme (`Settings` ➡️ `Select Theme` ➡️ `Dracula Flat / Dracula Flat Blur`).
 
 ## Community
 
