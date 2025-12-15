@@ -1,5 +1,5 @@
-id = "dracula-flat-theme"
-name = "Dracula Flat Theme"
+id = "dracula-flat"
+name = "Dracula Flat"
 version = "1.0.1"
 schema_version = 1
 authors = ["WangWindow <1598593280@qq.com>"]
