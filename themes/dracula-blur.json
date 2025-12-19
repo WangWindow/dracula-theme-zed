@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Dracula Flat Blur",
-  "author": "WangWindow adapted by Copilot",
+  "name": "Dracula Blur",
+  "author": "Ben Hamment, adapted by Copilot",
   "themes": [
     {
-      "name": "Dracula Flat Blur",
+      "name": "Dracula Blur",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -219,7 +219,7 @@
             "font_weight": null
           },
           "hint": {
-            "color": "#6272a48f",
+            "color": "#bd93f98f",
             "font_style": "italic",
             "font_weight": null
           },
