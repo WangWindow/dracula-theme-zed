@@ -55,7 +55,7 @@
         "tab.inactive_background": "#21222ccc",
         "tab.active_background": "#282a36cc",
         "search.match_background": "#50fa7b50",
-        "panel.background": "#282a36cc",
+        "panel.background": "#21222ccc",
         "panel.focused_border": "#bd93f9cc",
         "panel.indent_guide": "#ffffff1a",
         "panel.indent_guide_active": "#ffffff45",
