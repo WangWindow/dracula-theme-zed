@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Dracula",
-  "author": "Ben Hamment",
+  "author": "WangWindow",
   "themes": [
     {
-      "name": "Dracula",
+      "name": "Dracula Flat",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -16,7 +16,7 @@
           "#f1fa8cff",
           "#ff5555ff"
         ],
-        "background.appearance": "blurred",
+        "background.appearance": "opaque",
         "border": "#191a21ff",
         "border.variant": "#44475a70",
         "border.focused": "#6272a4ff",
